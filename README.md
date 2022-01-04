@@ -1,1 +1,1 @@
-Learnmonkey is a website with freely-accessible education content covering a variety of subjects. All of Learnmonkey's code can be foudn in the Github organization repos.
+This is the repository that contains the profile README found on the GitHub organization page.
